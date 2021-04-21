@@ -1,34 +1,83 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Ignews
 
-## Getting Started
+<h1 align="center">
+  <img alt="ig.news" title="ig.news" width="200px"  src="https://github.com/Daniel-Vinicius/Ignite/blob/main/03-ignews/.github/logo.svg" />
+</h1>
 
-First, run the development server:
+<h3 align="center">
+  Mantenha-se informado sobre o mundo ReactJS
+</h3>
+
+<p align="center">
+  <a href="#-about-the-project">Sobre o Projeto</a> •
+  <a href="#-technologies">Tecnologias</a> •
+  <a href="#-getting-started">Primeiros passos</a> •
+  <a href="#-license">License</a>
+</p>
+
+<p align="center">
+  <img alt="ig.news" src="https://github.com/Daniel-Vinicius/Ignite/blob/main/03-ignews/.github/ig-news.png" width="100%">
+</p>
+
+## 👩‍💻 Sobre o Projeto
+
+[Ignews](https://ignews.vercel.app/) é um projeto criado na [Rocketseat](https://rocketseat.com.br/) no treinamento Ignite ReactJS.
+
+Neste projeto você pode se inscrever para ler posts sobre o mundo ReactJS.
+
+## 🚀 Tecnologias
+
+- [Next.js](https://nextjs.org/)
+- [ReactJS](https://reactjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Prismic](https://prismic.io/)
+- [Stripe](https://stripe.com/en-br)
+- [Faunadb](https://fauna.com/)
+- [SASS](https://sass-lang.com/)
+
+## 💻 Primeiros passos
+
+### Requisitos
+
+- [Node.js](https://nodejs.org/pt-br/)
+- [Yarn](https://classic.yarnpkg.com/)
+
+**Clone o projeto e acesse a pasta**
 
 ```bash
-npm run dev
-# or
-yarn dev
+$ git clone https://github.com/Daniel-Vinicius/Ignite.git && cd Ignite && cd 03-ignews
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+**Siga os passos abaixo**
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+```bash
+# Instale as dependências
+yarn
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+# Faça uma cópia de '.env.example' para '.env'
+# definindo com as SUAS variáveis de ambiente.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+# Inicie o aplicativo
+yarn dev
 
-## Learn More
+```
 
-To learn more about Next.js, take a look at the following resources:
+## 📝 License
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+<p align="center">
+Feito com 💜&nbsp;por <a href="https://github.com/vagnereix">Vagner Reis</a>
+</p>
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### Acessar
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- https://nextjs.org/docs/authentication
+
+Para autenticar com Google
+
+- https://next-auth.js.org/providers/google
+- https://developers.google.com/identity/protocols/oauth2
+- https://console.cloud.google.com/projectselector2/apis/credentials
