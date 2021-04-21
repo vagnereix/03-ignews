@@ -31,12 +31,12 @@ Neste projeto você pode se inscrever para ler posts sobre o mundo ReactJS.
 - [Node.js](https://nodejs.org/pt-br/)
 - [Yarn](https://classic.yarnpkg.com/)
 
-```
+```bash
 # Clone este projeto
 $ git clone https://github.com/vagnereix/03-ignews-trilha-reactjs.git
 
 # Acesse
-$ cd 03-ignews-trilha-reactjs```
+$ cd 03-ignews-trilha-reactjs
 
 # Instale as dependências
 $ yarn
@@ -47,6 +47,7 @@ $ yarn
 # Rode o projeto
 yarn dev
 ```
+Pronto! Você pode visualizar o RocketShoes através do endereço http://localhost:3000
 
 ## 🚀 Tecnologias
 
