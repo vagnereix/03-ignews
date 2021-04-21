@@ -23,7 +23,7 @@
 
 Neste projeto você pode se inscrever para ler posts sobre o mundo ReactJS.
 
-## :books: Guia de instalação e execução
+## :books: Guia
 
 ### Requisitos:
 
