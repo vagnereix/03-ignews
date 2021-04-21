@@ -7,9 +7,9 @@
 </h3>
 
 <p align="center">
-  <a href="#-about-the-project">Sobre o Projeto</a> •
-  <a href="#-technologies">Tecnologias</a> •
-  <a href="#-getting-started">Primeiros passos</a> •
+  <a href="#-projeto">Sobre o Projeto</a> •
+  <a href="#-tecnologias">Tecnologias</a> •
+  <a href="#-guia de instalação e execução">Guia de instalação</a> •
   <a href="#-license">License</a>
 </p>
 
