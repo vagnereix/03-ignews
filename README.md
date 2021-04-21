@@ -1,4 +1,4 @@
-# Ignews
+# ignews
 
 <h1 align="center">
   <img alt="ig.news" title="ig.news" width="200px"  src="https://github.com/Daniel-Vinicius/Ignite/blob/main/03-ignews/.github/logo.svg" />
@@ -19,11 +19,36 @@
   <img alt="ig.news" src="https://github.com/Daniel-Vinicius/Ignite/blob/main/03-ignews/.github/ig-news.png" width="100%">
 </p>
 
-## 👩‍💻 Sobre o Projeto
+## 👩‍💻 Projeto
 
 [Ignews](https://ignews.vercel.app/) é um projeto criado na [Rocketseat](https://rocketseat.com.br/) no treinamento Ignite ReactJS.
 
 Neste projeto você pode se inscrever para ler posts sobre o mundo ReactJS.
+
+## :books: Guia de instalação e execução
+
+### Requisitos
+
+- [Git](https://git-scm.com/)
+- [Node.js](https://nodejs.org/pt-br/)
+- [Yarn](https://classic.yarnpkg.com/)
+
+```## Clone este projeto
+$ git clone https://github.com/vagnereix/03-ignews-trilha-reactjs.git
+
+# Acesse
+$ cd 03-ignews-trilha-reactjs```
+
+```# Instale as dependências
+$ yarn
+
+# Faça uma cópia de '.env.example' para '.env'
+# definindo com as SUAS variáveis de ambiente.
+
+# Rode o projeto
+yarn dev
+
+```
 
 ## 🚀 Tecnologias
 
@@ -34,33 +59,6 @@ Neste projeto você pode se inscrever para ler posts sobre o mundo ReactJS.
 - [Stripe](https://stripe.com/en-br)
 - [Faunadb](https://fauna.com/)
 - [SASS](https://sass-lang.com/)
-
-## 💻 Primeiros passos
-
-### Requisitos
-
-- [Node.js](https://nodejs.org/pt-br/)
-- [Yarn](https://classic.yarnpkg.com/)
-
-**Clone o projeto e acesse a pasta**
-
-```bash
-$ git clone https://github.com/Daniel-Vinicius/Ignite.git && cd Ignite && cd 03-ignews
-```
-
-**Siga os passos abaixo**
-
-```bash
-# Instale as dependências
-yarn
-
-# Faça uma cópia de '.env.example' para '.env'
-# definindo com as SUAS variáveis de ambiente.
-
-# Inicie o aplicativo
-yarn dev
-
-```
 
 ## 📝 License
 
