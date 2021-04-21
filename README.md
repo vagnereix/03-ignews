@@ -47,7 +47,7 @@ $ yarn
 # Rode o projeto
 yarn dev
 ```
-Pronto! Você pode visualizar o RocketShoes através do endereço http://localhost:3000
+Pronto! Você pode visualizar o ignews através do endereço http://localhost:3000
 
 ## 🚀 Tecnologias
 
