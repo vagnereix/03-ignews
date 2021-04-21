@@ -1,5 +1,3 @@
-# ignews
-
 <h1 align="center">
   <img alt="ig.news" title="ig.news" width="200px"  src="https://github.com/Daniel-Vinicius/Ignite/blob/main/03-ignews/.github/logo.svg" />
 </h1>
@@ -27,19 +25,20 @@ Neste projeto você pode se inscrever para ler posts sobre o mundo ReactJS.
 
 ## :books: Guia de instalação e execução
 
-### Requisitos
+### Requisitos:
 
 - [Git](https://git-scm.com/)
 - [Node.js](https://nodejs.org/pt-br/)
 - [Yarn](https://classic.yarnpkg.com/)
 
-```## Clone este projeto
+```
+# Clone este projeto
 $ git clone https://github.com/vagnereix/03-ignews-trilha-reactjs.git
 
 # Acesse
 $ cd 03-ignews-trilha-reactjs```
 
-```# Instale as dependências
+# Instale as dependências
 $ yarn
 
 # Faça uma cópia de '.env.example' para '.env'
@@ -47,7 +46,6 @@ $ yarn
 
 # Rode o projeto
 yarn dev
-
 ```
 
 ## 🚀 Tecnologias
@@ -64,18 +62,18 @@ yarn dev
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-<p align="center">
-Feito com 💜&nbsp;por <a href="https://github.com/vagnereix">Vagner Reis</a>
-</p>
-
-### Acessar
+### Acessar:
 
 - https://nextjs.org/docs/authentication
 
-Para autenticar com Google
+Para autenticar com Google:
 
 - https://next-auth.js.org/providers/google
 - https://developers.google.com/identity/protocols/oauth2
 - https://console.cloud.google.com/projectselector2/apis/credentials
+
+---
+
+<p align="center">
+Feito com 💜&nbsp;e ☕&nbsp;por <a href="https://github.com/vagnereix">Vagner Reis</a>
+</p>
