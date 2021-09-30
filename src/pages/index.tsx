@@ -11,6 +11,7 @@ interface HomeProps {
   };
 }
 
+// Toda página precisa ser *Default*
 export default function Home({ product }: HomeProps) {
   return (
     <>
